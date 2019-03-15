@@ -12,11 +12,11 @@ Hi! I'm Iveli and I like to keep track of my daily progress.
 # 2019
 ## March
 
-12 - 15 - SQL
-05 - 11 - HTTP
+12 - 15 - SQL  
+05 - 11 - HTTP  
 
 ## February
-13 - Studies about Advanced DOM Manipulation
+13 - Studies about Advanced DOM Manipulation  
 
 ## January
 
