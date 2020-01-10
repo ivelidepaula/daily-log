@@ -4,7 +4,7 @@ A summary of what I've been learning recently and the projects I've built. This 
 ## 2020
 
 ### January
- - 07 - 08 | Course [Data Science - First steps](https://cursos.alura.com.br/course/data-science-primeiros-passos)
+ - 07 - 10 | Course [Data Science - First steps](https://cursos.alura.com.br/course/data-science-primeiros-passos)
 
 ## 2019
 ### March
