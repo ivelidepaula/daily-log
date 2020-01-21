@@ -4,7 +4,7 @@ A summary of what I've been learning recently and the projects I've built. This 
 ## 2020
 
 ### January
- - 14 - 20 | Course [Learn Python - Kaggle](https://www.kaggle.com/learn/python)
+ - 14 - 21 | Course [Learn Python - Kaggle](https://www.kaggle.com/learn/python)
  - 07 - 10 | Course [Data Science - First steps](https://cursos.alura.com.br/course/data-science-primeiros-passos)
 
 ## 2019
