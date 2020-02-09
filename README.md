@@ -2,6 +2,8 @@
 A summary of what I've been learning recently and the projects I've built. This repository was created to keep track of my daily progress.
 
 ## 2020
+### February
+ - 09 | Tutorial [Learn Data Science - freeCodeCamp](https://www.youtube.com/watch?v=ua-CiDNNj30)
 
 ### January
  - 15 - 26 | Course [Intro to Machine Learning - Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
@@ -20,5 +22,5 @@ A summary of what I've been learning recently and the projects I've built. This 
 ##  About me
 I'm a civil engineer learning how to code. You can reach me at:  
 E-mail: iveli.sousa@gmail.com  
-Twitter: [@ivelisousa](https://twitter.com/ivelisousa)  
-LinkedIn:  [linkedin.com/in/ivelisousa](https://www.linkedin.com/in/ivelisousa)
+Twitter: [@ivelidepaula](https://twitter.com/ivelidepaula)  
+LinkedIn:  [linkedin.com/in/ivelidepaula](https://www.linkedin.com/in/ivelidepaula/)
