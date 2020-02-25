@@ -3,6 +3,7 @@ A summary of what I've been learning recently and the projects I've built. This 
 
 ## 2020
 ### February
+ - 24 - 25 | Udacity Nanodegree
  - 09 | Tutorial [Learn Data Science - freeCodeCamp](https://www.youtube.com/watch?v=ua-CiDNNj30)
 
 ### January
