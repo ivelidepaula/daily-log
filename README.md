@@ -3,6 +3,7 @@ A summary of what I've been learning recently and the projects I've built. This 
 
 ## 2020
 ### February
+ - 29 | Course SQL Agregations - Udacity Nanodegree: [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
  - 27 | Course SQL Joins - Udacity Nanodegree: [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
  - 24 - 26 | Course Basic SQL - Udacity Nanodegree: [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
  - 09 | Tutorial [Learn Data Science - freeCodeCamp](https://www.youtube.com/watch?v=ua-CiDNNj30)
