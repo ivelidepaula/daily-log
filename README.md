@@ -2,6 +2,10 @@
 A summary of what I've been learning recently and the projects I've built. This repository was created to keep track of my daily progress.
 
 ## 2020
+
+### March
+ - 01 | Course Industry Research - Udacity Nanodegree: [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+ 
 ### February
  - 29 | Course SQL Agregations - Udacity Nanodegree: [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
  - 27 | Course SQL Joins - Udacity Nanodegree: [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
