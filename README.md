@@ -4,6 +4,7 @@ A summary of what I've been learning recently and the projects I've built. This 
 ## 2020
 
 ### March
+ - 05 | Course SQL Cleaning - Udacity Nanodegree: [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
  - 04 | Course SQL Subqueries and Temporary Tables - Udacity Nanodegree: [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
  - 03 | Course SQL Agregations - Udacity Nanodegree: [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
  - 01 - 02 | Course Industry Research - Udacity Nanodegree: [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
