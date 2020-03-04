@@ -4,15 +4,15 @@ A summary of what I've been learning recently and the projects I've built. This 
 ## 2020
 
 ### March
- - 05 | Course SQL Cleaning - Udacity Nanodegree: [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
- - 04 | Course SQL Subqueries and Temporary Tables - Udacity Nanodegree: [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
- - 03 | Course SQL Agregations - Udacity Nanodegree: [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
- - 01 - 02 | Course Industry Research - Udacity Nanodegree: [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+ - 05 | Course [SQL Windows Function - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+ - 04 | Course [SQL Subqueries and Temporary Tables](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104) & Course [SQL Cleaning - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+ - 03 | Course [SQL Agregations - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+ - 01 - 02 | Course [Industry Research - Udacity Nanodegre](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
  
 ### February
- - 29 | Course SQL Agregations - Udacity Nanodegree: [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
- - 27 | Course SQL Joins - Udacity Nanodegree: [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
- - 24 - 26 | Course Basic SQL - Udacity Nanodegree: [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+ - 29 | Course [SQL Agregations - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+ - 27 | Course [SQL Joins - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+ - 24 - 26 | Course [Basic SQL - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
  - 09 | Tutorial [Learn Data Science - freeCodeCamp](https://www.youtube.com/watch?v=ua-CiDNNj30)
 
 ### January
