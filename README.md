@@ -4,6 +4,7 @@ A summary of what I've been learning recently and the projects I've built. This 
 ## 2020
 
 ### March
+ - 09 | Course [Shell Workshop - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
  - 05 - 07 | Course [SQL Windows Function - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
  - 04 | Course [SQL Subqueries and Temporary Tables](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104) & Course [SQL Cleaning - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
  - 03 | Course [SQL Agregations - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
