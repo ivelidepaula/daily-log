@@ -3,6 +3,9 @@ A summary of what I've been learning recently and the projects I've built. This 
 
 ## 2020
 
+### April
+ - 01 | Course [Creating Visualizations in Tableau - Udacity Nanodegree](https://www.udacity.com/course/data-visualization-nanodegree--nd197)
+
 ### March
  - 09 | Course [Shell Workshop - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
  - 05 - 07 | Course [SQL Windows Function - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
