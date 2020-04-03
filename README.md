@@ -4,6 +4,7 @@ A summary of what I've been learning recently and the projects I've built. This 
 ## 2020
 
 ### April
+ - 03 | Course [Introduction to Machine Learning - Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
  - 01 | Course [Creating Visualizations in Tableau - Udacity Nanodegree](https://www.udacity.com/course/data-visualization-nanodegree--nd197)
 
 ### March
