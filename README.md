@@ -10,7 +10,7 @@ A summary of what I've been learning recently and the projects I've built. This 
  - 01 | Course [Creating Visualizations in Tableau - Udacity Nanodegree](https://www.udacity.com/course/data-visualization-nanodegree--nd197)
 
 ### March
- - 31 | [US Bikeshare Data](https://github.com/ivelidepaula/pdsnd_github): a project making use of Python to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington.
+ - 31 | [US Bikeshare Data](https://github.com/ivelidepaula/pdsnd_github): a project using Python to explore data related to bike share systems for major cities in the United States.
  - 29 | [DVD Rental Database](https://github.com/ivelidepaula/DVD-Rental-Database): a project using SQL queries to analyze a database with data from a DVD rental company.
  - 25 | [Introduction to Version Control - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
  - 21 | [Spreadsheets: Manipulate Data - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
