@@ -4,10 +4,19 @@ A summary of what I've been learning recently and the projects I've built. This 
 ## 2020
 
 ### April
+ - 08 - 11 | Course [Data Visualization Fundamentals - Udacity Nanodegree](https://www.udacity.com/course/data-visualization-nanodegree--nd197)
+ - 05 - 07 | Course [Design Principles - Udacity Nanodegree](https://www.udacity.com/course/data-visualization-nanodegree--nd197)
  - 03 | Course [Introduction to Machine Learning - Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
  - 01 | Course [Creating Visualizations in Tableau - Udacity Nanodegree](https://www.udacity.com/course/data-visualization-nanodegree--nd197)
 
 ### March
+ - 31 | [US Bikeshare Data](https://github.com/ivelidepaula/pdsnd_github): a project making use of Python to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington.
+ - 29 | [DVD Rental Database](https://github.com/ivelidepaula/DVD-Rental-Database): a project using SQL queries to analyze a database with data from a DVD rental company.
+ - 25 | [Introduction to Version Control - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+ - 21 | [Spreadsheets: Manipulate Data - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+ - 17 | [Descriptive Statistic II - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+ - 14 | [Descriptive Statistic I - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+ - 11 | [Introduction to Python - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
  - 09 | Course [Shell Workshop - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
  - 05 - 07 | Course [SQL Windows Function - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
  - 04 | Course [SQL Subqueries and Temporary Tables](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104) & Course [SQL Cleaning - Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
